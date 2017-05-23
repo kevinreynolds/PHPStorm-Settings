@@ -1,0 +1,2 @@
+# pstorm-settings
+PHPStorm Settings
