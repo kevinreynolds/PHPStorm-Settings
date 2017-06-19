@@ -1,4 +1,5 @@
 <scheme name="Material Peacock" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.4" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <console-font>
@@ -26,7 +27,6 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
     <option name="FILESTATUS_MERGED" value="ff5d38" />
     <option name="FILESTATUS_MODIFIED" value="bcd42a" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="bcd42a" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="bcd42a" />
     <option name="FILESTATUS_UNKNOWN" value="d1675a" />
@@ -76,7 +76,7 @@
     </option>
     <option name="BASH.INTERNAL_COMMAND">
       <value>
-        <option name="FOREGROUND" value="b0c95" />
+        <option name="FOREGROUND" value="49a2d6" />
       </value>
     </option>
     <option name="BNF_EXTERNAL">
