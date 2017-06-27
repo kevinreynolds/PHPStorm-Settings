@@ -437,4 +437,9 @@
       </interpreter>
     </phpInfoCache>
   </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <phpunit_by_interpreter interpreter_id="13ee551d-bc3f-41d9-b442-96a091b6d018" load_method="CUSTOM_LOADER" configuration_file_path="/home/vagrant/Code/laraforum/phpunit.xml" custom_loader_path="/home/vagrant/Code/laraforum/vendor/autoload.php" phpunit_phar_path="" use_configuration_file="true" />
+    </phpunit_settings>
+  </component>
 </application>
