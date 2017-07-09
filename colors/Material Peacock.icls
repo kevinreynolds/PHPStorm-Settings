@@ -715,6 +715,32 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INI.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="304e52" />
+      </value>
+    </option>
+    <option name="INI.EQUALS">
+      <value>
+        <option name="FOREGROUND" value="26a6a6" />
+      </value>
+    </option>
+    <option name="INI.KEY">
+      <value>
+        <option name="FOREGROUND" value="b377d6" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="INI.SECTION">
+      <value>
+        <option name="FOREGROUND" value="26d078" />
+      </value>
+    </option>
+    <option name="INI.VALUE">
+      <value>
+        <option name="FOREGROUND" value="bcd42a" />
+      </value>
+    </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="1e2123" />
