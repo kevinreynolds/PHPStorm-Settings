@@ -1,5 +1,12 @@
-<scheme name="Material Peacock" version="142" parent_scheme="Default">
+<scheme name="Material Peacock Silverstripe" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-10-11T07:45:18</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.2.1.0.0</property>
+    <property name="modified">2017-10-11T07:52:30</property>
+    <property name="originalScheme">Material Peacock</property>
+  </metaInfo>
   <option name="LINE_SPACING" value="1.7" />
   <option name="EDITOR_FONT_SIZE" value="13" />
   <option name="EDITOR_FONT_NAME" value="Hack" />
