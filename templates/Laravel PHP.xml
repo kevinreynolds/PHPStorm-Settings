@@ -1,0 +1,9 @@
+<templateSet group="Laravel PHP">
+  <template name="la_model" value="    use SoftDeletes;&#10;    &#10;    /**&#10;     * Table associated with the model.&#10;     *&#10;     * @var string&#10;     */&#10;    protected $table = '$TABLE$';&#10;&#10;    /**&#10;     * Attributes that should be mutated to dates.&#10;     *&#10;     * @var array&#10;     */&#10;    protected $dates = [&#10;        'deleted_at'&#10;    ];&#10;&#10;    /**&#10;     * Indicates if the IDs are auto incrementing.&#10;     *&#10;     * @var bool&#10;     */&#10;    public $incrementing = false;&#10;    &#10;    /**&#10;     * Attributes that are mass assignable.&#10;     *&#10;     * @var array&#10;     */&#10;    protected $fillable = [&#10;        $FIELD_NAMES$&#10;    ];" description="Base model structure" toReformat="false" toShortenFQNames="true">
+    <variable name="TABLE" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="FIELD_NAMES" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
